@@ -1,4 +1,4 @@
-# Project Description
+# Pedestrian Intention Prediction using Deep Learning - Project Description
 This project focuses on a common problem in the autonomous driving industry: Pedestrian Intention Prediction.
 We are given a set of video clips along with some metadata about the pedestrians on each of those clipcs and their stances. The problem we propose to solve is to predict for each pedestrian whether or not they are crossing the street, and whether or not they will be crossing the street at the next state.
 
