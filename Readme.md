@@ -4,6 +4,10 @@ We are given a set of video clips along with some metadata about the pedestrians
 
 The dataset from which the clips are issued is the opensource JAAD dataset, which you can read more about here: http://data.nvision2.eecs.yorku.ca/JAAD_dataset/ if you are interested.
 
+<p align="center">
+<img src="behavior.png" alt="jaad_samples" align="middle" width="900"/>
+</p>
+
 The code and results are available in the [jupyter notebook file](PA_2021_CC_C.ipynb) in the root folder.
 # My take on this problem
 This task is a classification problem. We want to classify each image along with the vector of given features (moving_slow, stopped, handwave...) as 'crossing' or 'not crossing'.
